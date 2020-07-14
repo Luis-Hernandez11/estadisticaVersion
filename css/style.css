@@ -1,0 +1,141 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#clearfix{
+	float:none;
+	clear: both;
+}
+
+header{
+	margin: 0px;
+	background: #333;
+	color: #f2f2f2;
+	font-family: Helvetica, Arial;
+	letter-spacing: 2px;
+	text-align:center;
+	padding: 8px;
+}
+
+
+footer{
+	margin:0px;
+	background: #333;
+	color: #f2f2f2;
+	letter-spacing: 2px;
+	font-family: Helvetica, Arial;
+	text-align: center;
+	margin-top: 20px;
+	padding: 8px
+
+}
+
+#opciones{
+	width: 50%;
+	height: 50%;
+	background: #333;
+	color: white;
+	margin: 0px auto;
+	margin-top: 10px;
+
+}
+
+#opciones h2{
+	text-align: center;
+	font-family: Helvetica, Arial;
+	font-size:25px;
+	padding: 10px;
+}
+
+#opciones a{
+	text-align: center;
+	font-size: 15px;
+	letter-spacing: 2px;
+	font-family: Helvetica, Arial;
+	margin-top: 5px;
+	display: block;
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+
+#form{
+	width: 50%;
+	height: 50%;
+	margin: 0px auto;
+	background: #333;
+	padding: 15px;
+	font-size: 15px;
+	text-align: center;
+	font-family: Helvetica, Arial;
+	letter-spacing: 2px;
+	color: white;
+	margin-top: 15px;
+}
+
+.estadistica{
+	margin:0px auto;
+	margin-top: 7px;
+	margin-bottom: 15px;
+	width: 50%;
+	height:50%;
+	background: #333;
+	color: white;
+	padding:10px;
+
+}
+
+.subcount{
+background: #f2f2f2;
+display: inline-block;
+margin-top: 5px;
+margin-right: 3px;
+color:#333;
+border: 1px solid white;
+
+}
+
+#boton{
+	cursor: pointer;
+}
+
+.tableta img{
+	width: 150px;
+	height:150px;
+	margin-top: 80px;
+	margin-left: 15px;
+}
+
+.tableta p{
+	width: 500px;
+	height: 300px;
+	float:right;
+	margin-right: 40%;
+	font-family: Helvetica, Arial;
+	letter-spacing:2px;
+	font-size: 16px;
+	margin-top: 60px;
+	margin-bottom:10px;
+}
+
+.compra{
+	background: #ffcc00;
+	margin-left: 0px;
+	margin-top: 10px;
+	padding: 5px;
+	border: none;
+	cursor:pointer;
+	text-decoration: none;
+}
+
+.fa-dollar-sign{
+	font-size:25px;
+	color:#aacc22;
+	margin-left: 16px;
+}
+.fa-shopping-cart{
+font-size:25px;
+color:#aacc22;
+margin-left: 8px;
+}
